@@ -1,0 +1,2 @@
+login = 'stub'
+password = 'stub'
